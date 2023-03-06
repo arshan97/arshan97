@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshan Shaikh - Full Stack Developer 
-- 👀 I’m interested in Frontend, UI development, Mobile App development and so much more!
-- 🌱 I’m currently learning TypeScript, GraphQL, Next.Js, Styled Components
+- 👀 I’m interested in Frontend, Backend, Infrastructure and so much more!
+- 🌱 I’m currently learning Microservices, Docker, Kubernetes, Redis, NextJS etc.
 - 💞️ I’m looking to collaborate on every awesome open source projects!
 - 📫 How to reach me -> arshanshaikh97@gmail.com
 
