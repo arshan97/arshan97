@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Arshan Shaikh - Full Stack Developer 
+- 👋 Hi, I’m Arshan Shaikh - Full Stack Engineer 
 - 👀 I’m interested in Frontend, Backend, Infrastructure and so much more!
-- 🌱 I’m currently learning Microservices, Docker, Kubernetes, Redis, NextJS etc.
-- 💞️ I’m looking to collaborate on every awesome open source projects!
+- 🌱 I’m currently learning Go, Microservices, Docker, Kubernetes, Redis, NextJS etc.
 - 📫 How to reach me -> arshanshaikh97@gmail.com
 
 <!---
