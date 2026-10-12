@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend, Backend, Infrastructure and so much more!
 - 🌱 I’m currently learning Go, Microservices, Docker, Kubernetes, Redis, NextJS etc.
 - 📫 How to reach me -> arshanshaikh97@gmail.com
+- [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/46785dae-e7ce-439d-ad8c-2ca92535fecd.jpeg?v=1791798405)](https://www.boot.dev/certificates/46785dae-e7ce-439d-ad8c-2ca92535fecd)
 
 <!---
 arshan97/arshan97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
